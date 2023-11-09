@@ -9,6 +9,7 @@ Applied C++, TCP Socket Programming to implement Hot Potato game.
   - The server will initiate the game by passing the potato to a randomly chosen player.
   - Then, the potato will continue to be passed either to the previous player or the next player until the specified number of passes is reached.
   - Finally, the server will display the trace of the potato's journey and the last player who received the potato will provide some information or perform a specific action.
+- [Detailed description](https://github.com/CaoRui0910/Hot-Potato/blob/main/Hot-Potato.pdf)
 
 ### How to play the game?
 - The server program is invoked as:
